@@ -12,9 +12,7 @@ const Home = () => {
                     <div>Trần Văn Châu</div>
                     <div>N18DCDT006</div>
                 </div>
-                <div className="information-container2">
-                    <div>GVHD: TS. Chung Tấn Lâm</div>
-                </div>
+                <div className="information-container2"> GVHD: TS. Chung Tấn Lâm</div>
             </div>
 
         </>
