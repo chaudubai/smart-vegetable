@@ -39,10 +39,24 @@
     justify-items: center;
 
     width: 80%;
-    margin-top: 10rem;
+    margin-top: 1rem;
 
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+.information-container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+
+    width: 80%;
+    margin-top: 8rem;
+
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(0, 119, 255);
 }
 
 .information-container div {
