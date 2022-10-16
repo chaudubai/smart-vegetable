@@ -13,20 +13,20 @@
     border-radius: 10px;
 }
 
-.title-container > div:first-child {
+.title-container>div:first-child {
     font-size: 2rem;
     font-weight: bold;
     color: red;
     text-align: center;
 }
 
-.title-container > div:nth-child(2) {
+.title-container>div:nth-child(2) {
     font-size: 2rem;
     font-weight: bold;
     color: rgb(0, 119, 255);
 }
 
-.title-container > div:last-child {
+.title-container>div:last-child {
     margin-top: 1rem;
     font-size: 1.5rem;
     font-weight: bold;
@@ -39,7 +39,7 @@
     justify-items: center;
 
     width: 80%;
-    margin-top: 1rem;
+    margin-top: 10rem;
 
     font-size: 1.5rem;
     font-weight: bold;
