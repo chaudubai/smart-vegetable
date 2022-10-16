@@ -12,11 +12,11 @@ const Home = () => {
                     <div>Tran Van Chau</div>
                     <div>N18DCDT006</div>
                 </div>
+                <div className="information-container2">
+                    <div>GVHD: TS. Chung Tấn Lâm</div>
+                </div>
+            </div>
 
-            </div>
-            <div className="information-container2">
-                <div>GVHD: TS. Chung Tấn Lâm</div>
-            </div>
         </>
     );
 };
