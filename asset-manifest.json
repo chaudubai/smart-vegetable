@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/smart-vegetable/static/css/main.3f3beecd.css",
-    "main.js": "/smart-vegetable/static/js/main.a6d51cfe.js",
+    "main.css": "/smart-vegetable/static/css/main.3a7136c4.css",
+    "main.js": "/smart-vegetable/static/js/main.9cf3da51.js",
     "static/js/787.c4e7f8f9.chunk.js": "/smart-vegetable/static/js/787.c4e7f8f9.chunk.js",
     "static/media/LOGIN.JPG": "/smart-vegetable/static/media/LOGIN.3de9a10cc476cf83768c.JPG",
     "index.html": "/smart-vegetable/index.html",
-    "main.3f3beecd.css.map": "/smart-vegetable/static/css/main.3f3beecd.css.map",
-    "main.a6d51cfe.js.map": "/smart-vegetable/static/js/main.a6d51cfe.js.map",
+    "main.3a7136c4.css.map": "/smart-vegetable/static/css/main.3a7136c4.css.map",
+    "main.9cf3da51.js.map": "/smart-vegetable/static/js/main.9cf3da51.js.map",
     "787.c4e7f8f9.chunk.js.map": "/smart-vegetable/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f3beecd.css",
-    "static/js/main.a6d51cfe.js"
+    "static/css/main.3a7136c4.css",
+    "static/js/main.9cf3da51.js"
   ]
 }
