@@ -39,17 +39,16 @@
     justify-items: center;
 
     width: 80%;
-    margin-top: 3rem;
-
+    margin-top: 4rem;
     font-size: 1.5rem;
     font-weight: bold;
 }
 
 .information-container2 {
     align-items: center;
-    font-size: 6rem;
+    font-size: 18px;
     font-weight: bold;
-    padding-top: 7rem;
+    padding-top: 8rem;
     color: rgb(0, 119, 255);
 }
 
