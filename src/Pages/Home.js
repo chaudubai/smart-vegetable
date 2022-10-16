@@ -6,12 +6,11 @@ const Home = () => {
         <>
             <div className="title-container">
                 <div>
-                    Design Smart Vegetable Growing System Using Arduino Communicate With Esp32 Through Zigbee Technology
-                    Combine With Control And Monitoring Via Web Server
+                    Thiết Kế Xây Dựng Hệ Thống Trồng Rau Sạch Sử Dụng ESP32
                 </div>
                 <div className="information-container">
-                    <div>Lam Van Sang Em</div>
-                    <div>N17DCDT018</div>
+                    <div>Trần Văn Châu</div>
+                    <div>N18DCDT006</div>
                 </div>
             </div>
         </>

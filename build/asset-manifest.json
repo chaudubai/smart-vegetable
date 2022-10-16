@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smart-vegetable/static/css/main.d64292b5.css",
+    "main.js": "/smart-vegetable/static/js/main.961c7986.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/smart-vegetable/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/LOGIN.JPG": "/smart-vegetable/static/media/LOGIN.3001c8b1640fa7206fdf.JPG",
+    "index.html": "/smart-vegetable/index.html",
+    "main.d64292b5.css.map": "/smart-vegetable/static/css/main.d64292b5.css.map",
+    "main.961c7986.js.map": "/smart-vegetable/static/js/main.961c7986.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/smart-vegetable/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d64292b5.css",
+    "static/js/main.961c7986.js"
+  ]
+}
