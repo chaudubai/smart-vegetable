@@ -4,7 +4,7 @@ import LineChart from "../components/LineChart";
 import { io } from "socket.io-client";
 import "./Control.css";
 
-const socket = io("https://smart-vegetable.herokuapp.com");
+const socket = io("https://iotvegetable.herokuapp.com");
 
 const lamp_on = "images/lamp_on.png";
 const lamp_off = "images/lamp_off.png";
