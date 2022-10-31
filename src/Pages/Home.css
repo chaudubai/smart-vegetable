@@ -14,7 +14,7 @@
 }
 
 .title-container>div:first-child {
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-weight: bold;
     color: red;
     text-align: center;
@@ -28,8 +28,9 @@
 
 .title-container>div:last-child {
     margin-top: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
+    color: rgb(0, 119, 255);
 }
 
 .information-container {
@@ -44,13 +45,13 @@
     font-weight: bold;
 }
 
-.information-container2 {
+/* .information-container2 {
     align-items: center;
     font-size: 30px;
     font-weight: bold;
     padding-top: 8rem;
     color: rgb(0, 119, 255);
-}
+} */
 
 .information-container div {
     width: 50%;
